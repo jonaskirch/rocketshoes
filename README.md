@@ -1,2 +1,2 @@
 # RocketShoes
-Aplicação web criada no bootcamp GoStack
+Aplicação web desenvolvida no bootcamp GoStack
