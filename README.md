@@ -1,2 +1,2 @@
 # RocketShoes
-Aplicação web desenvolvida no bootcamp GoStack
+Aplicação web que simula um eccomerce desenvolvida no bootcamp GoStack
